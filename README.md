@@ -1,4 +1,4 @@
-﻿# python tienda con bloc de notas
+﻿# Store python and notepad to store data and products
 
 1. Generate enviroment with venv
 2. pip install
